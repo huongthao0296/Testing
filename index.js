@@ -57,4 +57,4 @@ function myFunction1(){
     
     header.classList.toggle("sticky",window.scrollY > 0)
    
-  })
+  }) 
