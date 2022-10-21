@@ -1,6 +1,6 @@
 # Capstone
 
-- Link github: https://github.com/vutiendanhvgu01/Capstone.git
+- Link github: https://github.com/huongthao0296/Testing
 - Link youtube: https://youtu.be/xHOao702FH0
 - Link web: Farmstead-capstone.surge.sh
 - Họ và tên thành viên:
